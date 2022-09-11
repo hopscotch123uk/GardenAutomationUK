@@ -38,7 +38,7 @@ All Amazon links are affiliate links, which means if you purchase something on A
 |Reservoirs|	(UK) Hydrofarm HGTB50GF 1/2-Inch Black Tubing	|1|	1/2" Tubing to go between reservoirs and out to plants.		| (UK) https://amzn.to/3a0epEp
 |Reservoirs| 	(UK) SharkBite UC532LFA Swivel Elbow		|1|	Swivel to attach tubing between 12V solenoid on RO res and 1/2" float valve on mixing res.	| (UK) https://amzn.to/3L58hyM
 |Reservoirs|	(UK) Kerick Valve MA052 PVC Mini Float Valve	|1| 	Mixing res fill float valve. Prevents freshwater overfilling mixing res.| (UK) https://amzn.to/3qwMpDc
-|Reservoirs| 	(UK) Malida Water Filter Float Ball Valve	|2|	1/4" Float valve for DIY humidifier and RO res.| https://amzn.to/3RFYdif
+|Reservoirs| 	(UK) Malida Water Filter Float Ball Valve	|2|	1/4" Float valve for DIY humidifier and RO res.| (UK) https://amzn.to/3RFYdif
 |Reservoirs|	(UK) Wandou 24V Ultrasonic Mist Maker 		|2|	DIY humidifier ultrasonic foggers	| (UK) https://amzn.to/3DkkPjY
 |Reservoirs| 	(UK) Reverse Osmosis System			|1|	iSpring RCC7 High Capacity Under Sink 5-Stage Reverse Osmosis  System | (UK) https://amzn.to/3RB9DE1
 |Sensors|	(UK) BME280 Temp/Humidity/Pressure Sensor	|3|	These are the most reliable humidity/temp sensors I've used. 3 total: 2 in a tent, 1 in a control box. | (UK) https://amzn.to/3DkLNbd
