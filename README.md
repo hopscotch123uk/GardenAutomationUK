@@ -1,4 +1,4 @@
-# gardenAutomationUK
+# GardenAutomation with UK/EU Parts list
 
 Hello! I am doing my best to continue LEDGardeners amazing Github with UK varients for shopping for parts etc plus any changes I make to the config for RDWC.
 
