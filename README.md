@@ -1,6 +1,6 @@
 # gardenAutomationUK
 
-Hello! I am doing my best to continue LEDGardeners amazing Github with UK varients for shopping for parts etc plus any changes I make to the config.
+Hello! I am doing my best to continue LEDGardeners amazing Github with UK varients for shopping for parts etc plus any changes I make to the config for RDWC.
 
 Some of the Home Assistant & Ardino code my also be changed also to incorperate more sensors such as the water level via the 'Ultrasonic Module HC-SR04P Distance Sensor for Arduino UNO MEGA R3 Mega2560 Duemilanove Nano Robot'
 
