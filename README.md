@@ -1,4 +1,8 @@
-# gardenAutomation
+# gardenAutomationUK
+
+Hello! I am doing my best to continue LEDGardeners amazing Github with UK varients for shopping for parts etc plus any changes I make to the config.
+
+Some of the Home Assistant & Ardino code my also be changed also to incorperate more sensors such as the water level via the 'Ultrasonic Module HC-SR04P Distance Sensor for Arduino UNO MEGA R3 Mega2560 Duemilanove Nano Robot'
 
 I'm new to github and writing code in general so please bear with me. This project is literally my first go at programming something and I'm having a blast. Experienced programmers may be scratching their heads at the way I've done some things but I'm learning and am always looking to improve. Over the past few weeks I've been trying to clean up my code and add as many useful comments as I can. Since I first posted my Home Assistant configuration files, I've made some significant changes to my MQTT topics and payloads that go back and forth between the Pi and the control box in order to make things more understandable and logical. I hope I've succeeded in my goal.
 
